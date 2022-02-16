@@ -4,3 +4,4 @@ import FaceDetector from './FaceDetector';
 
 export type CameraStatusExtend = _CameraStatus;
 export {  RNCamera, FaceDetector, hasTorch  };
+//end
